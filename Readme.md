@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="./assets/tourgo-logo.png" alt="TourGo Logo" width="180"/>
-
-# TourGo
-
 ### Your journey. Your choices. Our support.
 
 **A smarter way to discover, plan, and experience Sri Lanka.**
