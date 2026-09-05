@@ -2,7 +2,6 @@
 
 <img src="../assets/tourgo-logo.png" alt="TourGo Logo" width="160"/>
 
-# TourGo
 
 ### Your journey. Your choices. Our support.
 
